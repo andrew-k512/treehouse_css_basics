@@ -14,13 +14,16 @@
 
 5. Type Selectors
   -Type selectors target element types on the page. They’re also called element selectors because we use the element’s HTML tag as the selector.
+
+6. ID Selectors
+  -Unlike a type selector, which targets every element with the corresponding element type, an ID selector lets us assign a unique ID to an element.
+
+7. Class Selectors
+  -Class selectors let us target elements based on their class attribute. The main difference between a class and an ID selector is that IDs are unique and they’re used to identify one element on the page, whereas a class can target more than one element.
+
+8. Reusing Classes
+  -Besides being able to target more than one element with a single class selector, an element can also have multiple classes assigned to it.
   
-6.
-
-7.
-
-8.
-
 9.
 
 10.
