@@ -102,4 +102,7 @@
 32. Web Fonts with @font-face
   -Web fonts are special types of fonts that are optimized for screen display, and they're linked to our web pages from an external source. Web fonts eliminate the need to depend on the limited number of fonts installed on a user's computers.
 
-33.  
+33. Media Query basics
+  -With media queries, we're able to enhance the browsing experience of websites on multiple devices and viewport sizes. This allows us to tailor our content to a wide range of devices without having to change anything in the HTML.
+
+34.   
