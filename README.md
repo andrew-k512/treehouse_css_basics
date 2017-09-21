@@ -29,3 +29,11 @@
 
 10. Pseudo-Classes
   -Pseudo-classes are similar to classes, but they’re not explicitly defined in an element's class attribute. Unlike type, ID and class selectors, pseudo-classes can target elements dynamically based on user interaction, an element’s state, and more.
+
+11. Pixel Units    
+  -When we use pixel units, the size we define will always remain the same and will not scale, regardless of the browser window and size of the screen.
+
+12. Percentages
+  -We can define number values more fluidly with percentage units. Percentages, by nature, are always relative to something else. When we use a percentage unit in CSS, the percentage value is measured relative to a parent element's length.
+
+13. 

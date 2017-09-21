@@ -8,9 +8,12 @@ selector {
 
 /* We type the CSS rules in the order they appear in the HTML doc */
 
+/* Type Selectors ------------------ */
+
 body {
   color: #878787;
   margin: 0;
+  font-size: 150%;
 }
 
 h1 {
@@ -27,28 +30,7 @@ h3 {
   color: #48525c;
 }
 
-#main-footer {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  border-bottom: solid 10px orange;
-}
-
-.main-header {
-  background-color: orange;
-}
-
-.title {
-  color: white;
-  font-size: 26px;
-}
-
-.primary-content {
-  text-align: center;
-}
-
-.t-border {
-  border-top: 2px solid lightgrey;
-}
+/* Pseudo-classes ------------------ */
 
 a:link {
   color: orange;
@@ -66,7 +48,34 @@ a:active {
   color: lightcoral;
 }
 
-:focus {
-  color: white;
+/* ID Selectors -------------------- */
+
+#main-footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: solid 10px orange;
+}
+
+/* Class Selectors ----------------- */
+
+.main-header {
   background-color: orange;
+}
+
+.title {
+  color: white;
+  font-size: 26px;
+}
+
+.primary-content,
+.secondary-content {
+  width: 60%;
+}
+
+.primary-content {
+  text-align: center;
+}
+
+.t-border {
+  border-top: 2px solid lightgrey; /* Top border styles */
 }
