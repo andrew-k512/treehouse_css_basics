@@ -57,4 +57,8 @@
 19. Padding
   -Padding is often used to give an element's content area some breathing room by separating the content from the surrounding border area.
 
-20.  
+20. Borders
+  -In this video, we'll cover three properties we can use to create and style borders.
+
+21. Margins
+  -Margins affect the area outside a box. We commonly use margin properties to create space around elements.
