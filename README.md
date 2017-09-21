@@ -62,3 +62,6 @@
 
 21. Margins
   -Margins affect the area outside a box. We commonly use margin properties to create space around elements.
+
+22. Display values
+  -With the display property, we can override the default display settings of an element. In this video, we'll cover the three most common types of display values.
