@@ -23,7 +23,8 @@
 
 8. Reusing Classes
   -Besides being able to target more than one element with a single class selector, an element can also have multiple classes assigned to it.
-  
-9.
+
+9. Descendant Selectors
+  -CSS lets us target elements based on their relationship in the HTML document. We can combine selectors to create descendant selectors that target elements that are descendants of an element. This makes our selectors more specific.
 
 10.
