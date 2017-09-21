@@ -72,6 +72,9 @@ a:active {
   background-color: #ffa949;
   padding-top: 170px;
   height: 850px;
+  background-image: url('../img/mountains.jpg');
+  background-size: 40%;
+  background-repeat: no-repeat;
 }
 
 .title {
@@ -124,10 +127,10 @@ a:active {
 .primary-content,
 .secondary-content {
   width: 75%;
-  max-width: 900px;
   padding-left: 50px;
   padding-right: 50px;
   margin: auto;
+  max-width: 960px;
 }
 
 .wildlife {

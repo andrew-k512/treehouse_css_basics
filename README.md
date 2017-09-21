@@ -71,3 +71,6 @@
 
 22. Box-sizing and max-width
   -With the box-sizing property, we can alter the way the browser calculates an element's total width and height. We're also able to set the maximum width of an element with the max-width property.
+
+23. Backgrounds: Color and Images
+  -Every HTML element has a background layer that is transparent by default. In this video, you'll learn basic background properties for applying colors and images.
