@@ -12,8 +12,9 @@
 4. Intro to Selectors
   -Selectors are one of the most important and powerful parts of CSS because they let us target the content we want to style. When we define a selector in our stylesheet, we’re instructing the browser to match every instance of that selector in the HTML.
 
-5.
-
+5. Type Selectors
+  -Type selectors target element types on the page. They’re also called element selectors because we use the element’s HTML tag as the selector.
+  
 6.
 
 7.
