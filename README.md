@@ -41,3 +41,6 @@
 
 14. Rem Units / Root em
   -The rem unit is similar to the em unit. The difference is that rem is relative only to the root element of the page. This gets us around the compounding font size issue we experience with em units. Not effected by inheritance like Ems are.
+
+15. Color values
+  -Color plays an important role in web design. With CSS, we can describe a color value in different ways. The three most common ways are with a keyword, a hexadecimal value, or an RGB function.
