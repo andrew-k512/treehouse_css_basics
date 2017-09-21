@@ -99,4 +99,7 @@
 31. Gradients
   -With CSS gradients, we can add depth to our designs by creating smooth and gradual transitions between two or more colors.
 
-32. 
+32. Web Fonts with @font-face
+  -Web fonts are special types of fonts that are optimized for screen display, and they're linked to our web pages from an external source. Web fonts eliminate the need to depend on the limited number of fonts installed on a user's computers.
+
+33.  
