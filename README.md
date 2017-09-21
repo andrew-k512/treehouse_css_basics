@@ -54,4 +54,7 @@
 18. Line Height
   -With the line-height property, we can increase, or decrease, the vertical gaps between lines of text.
 
-19.
+19. Padding
+  -Padding is often used to give an element's content area some breathing room by separating the content from the surrounding border area.
+
+20.  
