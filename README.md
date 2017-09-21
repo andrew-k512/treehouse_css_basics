@@ -86,3 +86,8 @@
 
 27. Lists
   -In this video, we’ll cover the different ways we can use list properties to control the appearance of our lists.
+
+28. Text Shadows
+  -In this video, we'll learn how to add shadows to text with CSS.
+
+29.   
