@@ -95,3 +95,8 @@
 
 30. Border Radius
   -CSS has properties that let us create rounded corners on elements without the need for any images or extra markup. With border-radius, we can define exactly how rounded the borders appear.
+
+31. Gradients
+  -With CSS gradients, we can add depth to our designs by creating smooth and gradual transitions between two or more colors.
+
+32. 
