@@ -38,3 +38,6 @@
 
 13. Em Units
   -Relative length units are relative to other length values. The most commonly used relative unit is the em unit. The em is known as a font-relative unit because it's calculated based on a parent element's font size.
+
+14. Rem Units / Root em
+  -The rem unit is similar to the em unit. The difference is that rem is relative only to the root element of the page. This gets us around the compounding font size issue we experience with em units. Not effected by inheritance like Ems are.
