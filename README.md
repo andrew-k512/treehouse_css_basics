@@ -44,3 +44,6 @@
 
 15. Color values
   -Color plays an important role in web design. With CSS, we can describe a color value in different ways. The three most common ways are with a keyword, a hexadecimal value, or an RGB function.
+
+16. Text Styles
+  -Text has a significant effect on how we view a web page. In this video, we'll cover common properties for defining text styles.
