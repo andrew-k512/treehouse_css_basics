@@ -105,4 +105,5 @@
 33. Media Query basics
   -With media queries, we're able to enhance the browsing experience of websites on multiple devices and viewport sizes. This allows us to tailor our content to a wide range of devices without having to change anything in the HTML.
 
-34.   
+34. Adjusting the Layout with Media Queries
+  -As the final step in our Lake Tahoe website project, we'll need to add media query breakpoints to adjust the layout for mobile devices and narrow viewport sizes.
