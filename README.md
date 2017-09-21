@@ -9,7 +9,8 @@
 3. Importing Style Sheets with @import
   -The @import statement lets us import CSS from other style sheets. It shares some of the same advantages as linking a stylesheet, like browser caching and maintenance efficiency.
 
-4.
+4. Intro to Selectors
+  -Selectors are one of the most important and powerful parts of CSS because they let us target the content we want to style. When we define a selector in our stylesheet, we’re instructing the browser to match every instance of that selector in the HTML.
 
 5.
 

@@ -1,19 +1,14 @@
-@import "import-styles.css";
 
 
-body {
-  text-align: center;
+/*
+selector {
+  attribute: value;              <--- a single declaration line
+  attribute: value;              <--- a second declaration line
 }
+*/
 
-h1 {
-  font-size: 72px;
-  color: white;
-}
-
-header {
-  background-color: orange;
-}
-
-p {
-  font-size: 20px;
+* {
+  margin: 0;
+  padding: 0;
+  color: red;
 }
