@@ -1,4 +1,4 @@
-  Lesson index
+  CSS Basics from teamtreehouse.com - Lesson index
 
 1. Inline and Internal Styles 10:34
   -There are different ways we can add CSS to a page. First, let’s go over the inline and internal style methods.
@@ -77,3 +77,12 @@
 
 24. Backgrounds: Size and Position
   -In this video, we'll learn how certain properties affect the size and position of an element's background.
+
+25. Floats
+  -In this video, we’ll learn some of the basics of float layout.
+
+26. Clearing Floats
+  -If a block element contains floated children, its height will collapse. In this video, we'll learn two methods for accommodating floated elements.
+
+27. Lists
+  -In this video, we’ll cover the different ways we can use list properties to control the appearance of our lists.
