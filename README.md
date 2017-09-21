@@ -27,4 +27,5 @@
 9. Descendant Selectors
   -CSS lets us target elements based on their relationship in the HTML document. We can combine selectors to create descendant selectors that target elements that are descendants of an element. This makes our selectors more specific.
 
-10.
+10. Pseudo-Classes
+  -Pseudo-classes are similar to classes, but they’re not explicitly defined in an element's class attribute. Unlike type, ID and class selectors, pseudo-classes can target elements dynamically based on user interaction, an element’s state, and more.
