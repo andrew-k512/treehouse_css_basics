@@ -65,3 +65,9 @@
 
 22. Display values
   -With the display property, we can override the default display settings of an element. In this video, we'll cover the three most common types of display values.
+
+21. Width & Height properties
+  -By default, an element's width and height are as wide or as tall as the content it holds. But we're able to set our own dimensions with the width and height properties.
+
+22. Box-sizing and max-width
+  -With the box-sizing property, we can alter the way the browser calculates an element's total width and height. We're also able to set the maximum width of an element with the max-width property.
