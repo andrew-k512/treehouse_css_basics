@@ -93,4 +93,5 @@
 29. Box Shadows
   -Like text-shadow, we're able to cast shadows off elements with the box-shadow property.
 
-30. 
+30. Border Radius
+  -CSS has properties that let us create rounded corners on elements without the need for any images or extra markup. With border-radius, we can define exactly how rounded the borders appear.
