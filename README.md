@@ -74,3 +74,6 @@
 
 23. Backgrounds: Color and Images
   -Every HTML element has a background layer that is transparent by default. In this video, you'll learn basic background properties for applying colors and images.
+
+24. Backgrounds: Size and Position
+  -In this video, we'll learn how certain properties affect the size and position of an element's background.
