@@ -47,3 +47,6 @@
 
 16. Text Styles
   -Text has a significant effect on how we view a web page. In this video, we'll cover common properties for defining text styles.
+
+17. Font Properties
+  -Like text properties, font properties let us change the appearance of text by assigning a font family, font size, font style, and more.
