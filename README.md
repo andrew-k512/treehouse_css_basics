@@ -36,4 +36,5 @@
 12. Percentages
   -We can define number values more fluidly with percentage units. Percentages, by nature, are always relative to something else. When we use a percentage unit in CSS, the percentage value is measured relative to a parent element's length.
 
-13. 
+13. Em Units
+  -Relative length units are relative to other length values. The most commonly used relative unit is the em unit. The em is known as a font-relative unit because it's calculated based on a parent element's font size.
