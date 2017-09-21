@@ -90,4 +90,7 @@
 28. Text Shadows
   -In this video, we'll learn how to add shadows to text with CSS.
 
-29.   
+29. Box Shadows
+  -Like text-shadow, we're able to cast shadows off elements with the box-shadow property.
+
+30. 
